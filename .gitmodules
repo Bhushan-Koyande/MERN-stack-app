@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Bhushan-Koyande/MERN-stack-app
+[submodule "MERN-frontend"]
+	path = MERN-frontend
+	url = https://github.com/Bhushan-Koyande/MERN-frontend
